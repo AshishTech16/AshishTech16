@@ -3,7 +3,7 @@
 <p align="center">
 <a  href="https://www.linkedin.com/in/ashish-kumar-3aa50121a/" target="blank"><img align="center"  src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2147483647&v=beta&t=Zq1zixRFUNMSm2Ldgu_hcJAYTL1gWG3VHKXO4kf9lDQ" alt="i" height="20" width="20" /></a>&nbsp;
 <a  href="https://www.instagram.com/___ashish.x___/" target="blank"><img align="center" src="https://robots.net/wp-content/uploads/2020/03/Photo-by-Tumisu-1-1-600x595.jpg" alt="" height="20" width="20" /></a>
-      <a href="https://app.netlify.com/teams/ashishtech16/overview" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1413544188411482112/61xGHyIi_400x400.jpg" alt="" height="20" width="20" /></a>
+      
 </p>
 
 
