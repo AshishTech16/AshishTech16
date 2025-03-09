@@ -15,7 +15,7 @@
 - 🤔 I use daily ```.React```,``` .noje.js```, ```.Express.js```
 - 🌱 DEVELOPED 20+ PROJECTS  FOR SELF AND FOR CLIENTS ON FREELANCING PLATFORMS.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: tentaclebites@gmail.com
+- 📫 How to reach me: ashishkumarsde11@gmail.com
 
 
 <p align="center">
